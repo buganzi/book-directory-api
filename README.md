@@ -17,6 +17,5 @@ $ cd <to the root directory>
 # watch mode
 $ docker-compose up -d
 
-run start:prod
 
 ```
